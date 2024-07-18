@@ -1,15 +1,15 @@
-echo "{
-  \"version\": 2,
-  \"builds\": [
+{
+  "version": 2,
+  "builds": [
     {
-      \"src\": \"src/pages/**/*.js\",
-      \"use\": \"@vercel/node\"
+      "src": "src/pages/**/*.js",
+      "use": "@vercel/node"
     }
   ],
-  \"routes\": [
+  "routes": [
     {
-      \"src\": \"/(.*)\",
-      \"dest\": \"/src/pages/$1\"
+      "src": "/(.*)",
+      "dest": "/src/pages/$1"
     }
   ]
-}"
+}
