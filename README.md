@@ -1,4 +1,4 @@
 echo "# Jobz.pk
 
 ## Overview
-Jobz.pk is a platform for job seekers in Pakistan to find and apply for job opportunities across various industries."
+<a href="https://www.jobz.pk/">Jobz.pk</a> is a platform for job seekers in Pakistan to find and apply for job opportunities across various industries."
